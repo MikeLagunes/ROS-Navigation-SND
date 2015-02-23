@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "nav_ttb2")
+set(nav_ttb2_MAINTAINER "mike <mike@todo.todo>")
+set(nav_ttb2_DEPRECATED "")
+set(nav_ttb2_VERSION "0.0.0")
+set(nav_ttb2_BUILD_DEPENDS "OpenCV" "camera_info_manager" "cv_bridge" "image_transport" "nav_msgs" "pcl_conversions" "pcl_ros" "roscpp" "rospy" "sensor_msgs" "std_msgs" "libpcl-all-dev" "message_filters" "opengl")
+set(nav_ttb2_RUN_DEPENDS "OpenCV" "camera_info_manager" "cv_bridge" "image_transport" "nav_msgs" "pcl_conversions" "pcl_ros" "roscpp" "rospy" "sensor_msgs" "std_msgs" "libpcl-all" "message_filters" "opengl")
+set(nav_ttb2_BUILDTOOL_DEPENDS "catkin")

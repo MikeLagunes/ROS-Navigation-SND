@@ -1,0 +1,8 @@
+prefix=/home/mike/snd_nav/install
+
+Name: nav_ttb2
+Description: Description of nav_ttb2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mike/snd_nav/install/lib 
+Requires: 
